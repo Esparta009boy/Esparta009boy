@@ -42,7 +42,6 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 
 ---
 
-### 💡 Projetos em Destaque
 <h2 align="center">💡 Projetos em Destaque</h2>
 
 ---
@@ -83,10 +82,4 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 
 ---
 
-Após colar e clicar em **Commit changes...**, seu perfil terá um visual muito mais moderno, organizado e profissional!
 
-Com a estética do perfil finalizada, podemos voltar a planejar o seu novo projeto de **Podcast e E-book sobre Segurança Cibernética**! Qual dos três focos você acha que seria o mais valioso para o seu portfólio?
-
-1.  **Defesa e Resposta a Incidentes (Blue Team/DFIR)**
-2.  **Automação na Segurança (SOAR/n8n)**
-3.  **Cibersegurança para Devs (Secure Coding)**
