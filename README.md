@@ -43,30 +43,50 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 ---
 
 ### 💡 Projetos em Destaque
-
-
-### 💡 Projetos em Destaque
-
-Aqui estão alguns projetos em que estive envolvido, demonstrando minhas habilidades em Cibersegurança, Automação, IA e Resposta a Incidentes:
-
--   **Agente de IA para Mentoria Ciber com n8n (Projeto No-Code)**
-    * **Descrição:** Desenvolvimento de um agente de IA inteligente, atuando como mentor em cibersegurança, utilizando a plataforma no-code n8n para orquestração. O agente integra o Gemini para interações via chatbot e um sistema de memória simples para conversas contextuais, demonstrando automação avançada e aplicações práticas de IA na educação e suporte técnico em segurança.
-    * **Tecnologias:** `n8n`, `Google Gemini (IA)`, `Automação`, `No-Code`, `Cibersegurança`.
-    * **Link do Projeto:** [https://www.linkedin.com/posts/ronaldo-souza-ciber_ciberseguranaexa-inteligenciaartificial-agentedeia-activity-7382929475853881344-KmKo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg](https://www.linkedin.com/posts/ronaldo-souza-ciber_ciberseguranaexa-inteligenciaartificial-agentedeia-activity-7382929475853881344-KmKo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg)
-
--   **Análise e Resposta a Incidentes de Phishing (Operações SOC)**
-    * **Descrição:** Projeto prático focado na operação de um Centro de Operações de Segurança (SOC), lidando com alertas gerados por campanhas de phishing. Envolve a análise detalhada de e-mails e logs, aplicação de Medidas Mínimas para Tempo de Detecção (MMTD) e Medidas Mínimas para Tempo de Resposta (MMTR), e a elaboração de relatórios técnicos de incidentes para fortalecer a postura de segurança.
-    * **Tecnologias:** `SOC`, `DFIR`, `SIEM`, `Análise de Logs`, `Resposta a Incidentes`, `Phishing`.
-    * **Link do Projeto:** [https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-soc-activity-7381720526710358016-wCXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-soc-activity-7381720526710358016-wCXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg)
-
--   **Testes de Invasão Web com Kali Linux (SQL Injection & XSS)**
-    * **Descrição:** Demonstração prática de vulnerabilidades web comuns através de técnicas de Red Team usando Kali Linux. O projeto explora e reflete ataques de SQL Injection para manipular bancos de dados e Cross-Site Scripting (XSS) para explorar falhas em aplicações web, visando identificar e mitigar riscos de segurança.
-    * **Tecnologias:** `Kali Linux`, `SQL Injection`, `XSS`, `Red Team`, `Teste de Invasão (Pentest)`, `Segurança Web`.
-    * **Link do Projeto:** [https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg)
-
--   **Reconhecimento de Rede: SYN Scan com Kali Linux**
-    * **Descrição:** Projeto focado em técnicas de reconhecimento de rede utilizando o Kali Linux para realizar um SYN Scan (varredura de portas). Explora como identificar portas abertas e serviços em execução em sistemas alvo, fundamental para as fases iniciais de um pentest e para a compreensão da superfície de ataque.
-    * **Tecnologias:** `Kali Linux`, `Nmap`, `Reconhecimento de Rede`, `Red Team`, `Análise de Rede`.
-    * **Link do Projeto:** [https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg)
+<h2 align="center">💡 Projetos em Destaque</h2>
 
 ---
+
+### 🧠 Agente de IA para Mentoria Ciber com n8n (No-Code)
+> **Foco:** Automação e aplicações práticas de Inteligência Artificial para mentoria e suporte técnico em segurança.
+
+| 🛠️ Tecnologias | 🔗 Detalhes |
+| :--- | :--- |
+| `n8n` • `Google Gemini (IA)` • `Automação` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_ciberseguranaexa-inteligenciaartificial-agentedeia-activity-7382929475853881344-KmKo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
+
+---
+
+### 🚨 Análise e Resposta a Phishing (Operações SOC)
+> **Foco:** Prática de SOC com análise detalhada de logs, aplicação de Medidas Mínimas (MMTD e MMTR) e relatórios técnicos de incidentes.
+
+| 🛠️ Tecnologias | 🔗 Detalhes |
+| :--- | :--- |
+| `SOC` • `DFIR` • `SIEM` • `Phishing` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-soc-activity-7381720526710358016-wCXY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
+
+---
+
+### ⚔️ Testes de Invasão Web (SQLi & XSS)
+> **Foco:** Demonstração prática de técnicas de Red Team (SQL Injection e XSS) usando Kali Linux para exploração e mitigação de vulnerabilidades web.
+
+| 🛠️ Tecnologias | 🔗 Detalhes |
+| :--- | :--- |
+| `Kali Linux` • `SQL Injection` • `Red Team` • `Pentest` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
+
+---
+
+### 📡 Reconhecimento de Rede (SYN Scan)
+> **Foco:** Prática de reconhecimento de rede utilizando o Kali Linux e SYN Scan (Nmap), fundamental para a compreensão da superfície de ataque.
+
+| 🛠️ Tecnologias | 🔗 Detalhes |
+| :--- | :--- |
+| `Kali Linux` • `Nmap` • `Reconhecimento` • `Análise de Rede` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
+
+---
+
+Após colar e clicar em **Commit changes...**, seu perfil terá um visual muito mais moderno, organizado e profissional!
+
+Com a estética do perfil finalizada, podemos voltar a planejar o seu novo projeto de **Podcast e E-book sobre Segurança Cibernética**! Qual dos três focos você acha que seria o mais valioso para o seu portfólio?
+
+1.  **Defesa e Resposta a Incidentes (Blue Team/DFIR)**
+2.  **Automação na Segurança (SOAR/n8n)**
+3.  **Cibersegurança para Devs (Secure Coding)**
