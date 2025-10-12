@@ -34,10 +34,16 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+<h3 align="left">📊 Minhas Estatísticas do GitHub</h3>
+
+[![Estatísticas do GitHub de Ronaldo](https://github-readme-stats.vercel.app/api?username=Esparta009boy&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/Esparta009boy)
+
+[![Top Linguagens do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Esparta009boy&layout=compact&langs_count=10&theme=dark)](https://github.com/Esparta009boy)
 
 ---
 
----
+### 💡 Projetos em Destaque
+
 
 ### 💡 Projetos em Destaque
 
