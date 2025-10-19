@@ -81,21 +81,21 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 | `Kali Linux` • `Nmap` • `Reconhecimento` • `Análise de Rede` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
 
 ---
-### 📡 CMP Fast Scan (Pentest)
-**Foco:** Varredura rápida de hosts ativos via protocolo ICMP utilizando script em Python. Demonstração prática com chamada via `python3`.
-
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/ronaldocoding/CMP-Fast-Scan#tecnologias" style="background-color: #2ea44f; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🛠 Tecnologias</a>
-  <a href="https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg" style="background-color: #0366d6; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🔎 Ver Detalhes</a>
-</div>
 
 ---
+### 🧊 ICMP Fast Scan (Reconhecimento de Rede)
+Foco: Demonstração prática de um script ICMP Fast Scan para reconhecimento de rede, incluindo captura e análise de tráfego com Wireshark.
 
-### 🧪 Segurança Ofensiva com Crunch
-**Foco:** Geração estratégica de wordlists com a ferramenta Crunch, aplicada em testes de força bruta e auditoria de senhas.
+**Tecnologias**
+`Pentest` • `ICMP` • `Wireshark` • `Reconhecimento`
+[📎 Detalhes](#LINK_DO_PROJETO_GITHUB) | [🔗 Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsg)
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/ronaldocoding/Crunch-Wordlists#tecnologias" style="background-color: #2ea44f; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🛠 Tecnologias</a>
-  <a href="https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg" style="background-color: #0366d6; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🔎 Ver Detalhes</a>
-</div>
+---
+### 🔪 Fuzzing (Teste de Invasão Web)
+Foco: Prática de testes de invasão com foco em Fuzzing de formulários web usando o Burp Suite e Kali Linux, essencial para a descoberta de vulnerabilidades.
 
+**Tecnologias**
+`Fuzzing` • `Burp Suite` • `Kali Linux` • `Pentest` • `Web Hacking`
+[📎 Detalhes](#LINK_DO_PROJETO_GITHUB) | [🔗 Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsg)
+
+---
