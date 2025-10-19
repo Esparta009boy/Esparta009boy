@@ -1,12 +1,12 @@
 # Olá! 👋 Sou Ronaldo Rozendo
-### 👨‍💻 Graduando em Segurança Cibernética | Hacker Ético | Especialista em Automação e IA
-Sou um profissional apaixonado por Cibersegurança e Tecnologia. Minha missão é criar soluções inovadoras, automatizar processos e fortalecer defesas digitais, combinando expertise em Red Team, Blue Team e Governança de TI com o poder da Inteligência Artificial.
+### 👨‍💻 Graduando em Segurança Cibernética | Hacker Ético | Red Team | Blue Team | DFIR | Governança de TI | Linguagens de programação | Desenvolvedor em Formação com foco em Automação e IA
 
+Sou um profissional apaixonado por Cibersegurança e Tecnologia, com foco em aprendizado contínuo e aplicação prática. Minha missão é desenvolver soluções inovadoras, automatizar processos e fortalecer defesas digitais. Atuo na interseção entre Red Team, Blue Team e Governança de TI, explorando o potencial da Inteligência Artificial e ferramentas como n8n para criar agentes autônomos e fluxos inteligentes. Utilizo linguagens de programação como Python e JavaScript para construir scripts, integrar sistemas e ampliar a eficiência das operações de segurança.
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu trabalho:
+Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu estudo e trabalho:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -81,5 +81,15 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 | `Kali Linux` • `Nmap` • `Reconhecimento` • `Análise de Rede` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
 
 ---
+### 🚀 CMP Fast Scan (Pentest)
+**Foco:** Demonstração prática de um script ICMP FAST SCAN em Python3, utilizado para varredura rápida de hosts ativos em rede.
 
+[🛠 Tecnologias](Kali Linux e Python3)  [🔎 Ver Detalhes]https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg).
+
+---
+
+### 🧰 Segurança Ofensiva com Crunch
+**Foco:** Geração estratégica de wordlists com a ferramenta Crunch, aplicada em testes de força bruta e auditoria de senhas.
+
+[🛠 Tecnologias](Kali Linux e Ferramenta Crunch)  [🔎 Ver Detalhes]https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg).
 
