@@ -84,12 +84,18 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 ### 📡 CMP Fast Scan (Pentest)
 **Foco:** Varredura rápida de hosts ativos via protocolo ICMP utilizando script em Python. Demonstração prática com chamada via `python3`.
 
-[🛠 Tecnologias](https://github.com/ronaldocoding/CMP-Fast-Scan#tecnologias)  [🔎 Ver Detalhes](https://www.linkedin.com/posts/ronaldocoding_cmp-fast-scan-pentest-activity-7129693530309386240-1rQh)
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/ronaldocoding/CMP-Fast-Scan#tecnologias" style="background-color: #2ea44f; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🛠 Tecnologias</a>
+  <a href="https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg" style="background-color: #0366d6; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🔎 Ver Detalhes</a>
+</div>
 
 ---
 
 ### 🧪 Segurança Ofensiva com Crunch
 **Foco:** Geração estratégica de wordlists com a ferramenta Crunch, aplicada em testes de força bruta e auditoria de senhas.
 
-[🛠 Tecnologias](https://github.com/ronaldocoding/Crunch-Wordlists#tecnologias)  [🔎 Ver Detalhes](https://www.linkedin.com/posts/ronaldocoding_segurança-ofensiva-com-crunch-activity-7129693530309386240-1rQh)
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/ronaldocoding/Crunch-Wordlists#tecnologias" style="background-color: #2ea44f; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🛠 Tecnologias</a>
+  <a href="https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg" style="background-color: #0366d6; color: white; padding: 6px 12px; text-decoration: none; border-radius: 6px;">🔎 Ver Detalhes</a>
+</div>
 
