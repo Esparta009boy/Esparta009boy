@@ -84,6 +84,8 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 
 ---
 
+---
+
 ### ⚙️ Explorando a Segurança Ofensiva com Crunch (Wordlist)
 > **Foco:** Prática de segurança ofensiva focada na geração estratégica de wordlists com a ferramenta Crunch, otimizando testes de quebra de senha.
 
@@ -99,5 +101,7 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 | 🛠️ Tecnologias | 🔗 Detalhes |
 | :--- | :--- |
 | `ICMP` • `Pentest` • `Python` • `Reconhecimento` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
+
+---
 
 ---
