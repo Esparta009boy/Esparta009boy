@@ -83,19 +83,21 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 ---
 
 ---
-### 🧊 ICMP Fast Scan (Reconhecimento de Rede)
-Foco: Demonstração prática de um script ICMP Fast Scan para reconhecimento de rede, incluindo captura e análise de tráfego com Wireshark.
 
-**Tecnologias**
-`Pentest` • `ICMP` • `Wireshark` • `Reconhecimento`
-[📎 Detalhes](#LINK_DO_PROJETO_GITHUB) | [🔗 Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsg)
+### ⚙️ Explorando a Segurança Ofensiva com Crunch (Wordlist)
+> **Foco:** Prática de segurança ofensiva focada na geração estratégica de wordlists com a ferramenta Crunch, otimizando testes de quebra de senha.
+
+| 🛠️ Tecnologias | 🔗 Detalhes |
+| :--- | :--- |
+| `Crunch` • `Wordlist` • `Pentest` • `Kali Linux` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
 
 ---
-### 🔪 Fuzzing (Teste de Invasão Web)
-Foco: Prática de testes de invasão com foco em Fuzzing de formulários web usando o Burp Suite e Kali Linux, essencial para a descoberta de vulnerabilidades.
 
-**Tecnologias**
-`Fuzzing` • `Burp Suite` • `Kali Linux` • `Pentest` • `Web Hacking`
-[📎 Detalhes](#LINK_DO_PROJETO_GITHUB) | [🔗 Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsg)
+### 🧊 ICMP Fast Scan (Reconhecimento de Rede)
+> **Foco:** Demonstração prática de um script ICMP FAST SCAN.PY para reconhecimento rápido de rede e análise de processamento do tráfego.
+
+| 🛠️ Tecnologias | 🔗 Detalhes |
+| :--- | :--- |
+| `ICMP` • `Pentest` • `Python` • `Reconhecimento` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
 
 ---
