@@ -81,15 +81,15 @@ Aqui estão algumas das tecnologias, ferramentas e conhecimentos com os quais eu
 | `Kali Linux` • `Nmap` • `Reconhecimento` • `Análise de Rede` | [Ver no LinkedIn](https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-infosec-pentest-activity-7380786983310180352-Os8p?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg) |
 
 ---
-### 🚀 CMP Fast Scan (Pentest)
-**Foco:** Demonstração prática de um script ICMP FAST SCAN em Python3, utilizado para varredura rápida de hosts ativos em rede.
+### 📡 CMP Fast Scan (Pentest)
+**Foco:** Varredura rápida de hosts ativos via protocolo ICMP utilizando script em Python. Demonstração prática com chamada via `python3`.
 
-[🛠 Tecnologias](Kali Linux e Python3)  [🔎 Ver Detalhes]https://www.linkedin.com/posts/ronaldo-souza-ciber_pentestlife-icmpfastscan-cybersecurity-activity-7384440197050085376-4Kp0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg).
+[🛠 Tecnologias](https://github.com/ronaldocoding/CMP-Fast-Scan#tecnologias)  [🔎 Ver Detalhes](https://www.linkedin.com/posts/ronaldocoding_cmp-fast-scan-pentest-activity-7129693530309386240-1rQh)
 
 ---
 
-### 🧰 Segurança Ofensiva com Crunch
+### 🧪 Segurança Ofensiva com Crunch
 **Foco:** Geração estratégica de wordlists com a ferramenta Crunch, aplicada em testes de força bruta e auditoria de senhas.
 
-[🛠 Tecnologias](Kali Linux e Ferramenta Crunch)  [🔎 Ver Detalhes]https://www.linkedin.com/posts/ronaldo-souza-ciber_cybersecurity-pentest-kalilinux-activity-7385521048231899136-dktv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXuM20B9zcV3xERQPGcx0-I20NkJwsIcsg).
+[🛠 Tecnologias](https://github.com/ronaldocoding/Crunch-Wordlists#tecnologias)  [🔎 Ver Detalhes](https://www.linkedin.com/posts/ronaldocoding_segurança-ofensiva-com-crunch-activity-7129693530309386240-1rQh)
 
