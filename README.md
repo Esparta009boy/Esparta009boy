@@ -10,7 +10,7 @@ Também desenvolvo em **Python, C, C#, Assembly, JavaScript, HTML e CSS**, com e
 
 ## 🚀 Tecnologias e Ferramentas
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
@@ -18,6 +18,11 @@ Também desenvolvo em **Python, C, C#, Assembly, JavaScript, HTML e CSS**, com e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  
+</p>
+
+<!-- Linha 2: Ferramentas e bancos de dados -->
+<p>
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" />
@@ -25,6 +30,10 @@ Também desenvolvo em **Python, C, C#, Assembly, JavaScript, HTML e CSS**, com e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
 </p>
+
+
+
+
 
 ---
 
@@ -43,8 +52,9 @@ Também desenvolvo em **Python, C, C#, Assembly, JavaScript, HTML e CSS**, com e
 
 ## 📊 Principais Competências
 
-- **SOC - Security Operation Center**  
-- **DFIR - Digital Forensics Incident Response**  
+- **SOC - Security Operation Center**
+- **Pentester - Teste de Penetração**
+- **DFIR - Digital Forensics Incident And Response**  
 - **SIEM - Security Information and Event Management**  
 - **Infraestrutura de Redes**  
 - **Desenvolvimento Web (HTML, CSS, JavaScript, C, C#, Assembly, Python)**  
