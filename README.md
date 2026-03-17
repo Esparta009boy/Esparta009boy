@@ -49,6 +49,15 @@ Também desenvolvo em **Python, C, C#, Assembly, JavaScript, HTML e CSS**, com e
 </p>
 
 ---
+## 📜 Normas ISO/IEC
+
+<p>
+  <img src="https://img.shields.io/badge/ISO/IEC-27001-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO/IEC-20000-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO/IEC-22301-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO/IEC-31000-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ISO/IEC-38500-purple?style=for-the-badge" />
+</p>
 
 ## 📊 Principais Competências
 
@@ -76,6 +85,10 @@ Produzo conteúdos no meu canal do YouTube, compartilhando dicas, conceitos e bo
   <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+## 📊 Estatísticas Avançadas
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Esparta009boy&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Esparta009boy&theme=radical&margin-w=10&margin-h=10)
 
 ---
 
