@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hello, I'm Ronaldo Rozendo — Welcome!
 
-<!--
-**Esparta009boy/Esparta009boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou graduando em **Segurança Cibernética**, adquirindo conhecimentos sólidos em proteção de dados, análise de vulnerabilidades e gestão de riscos digitais. Minha trajetória acadêmica e prática tem sido marcada por desafios técnicos e teóricos que fortalecem minhas habilidades na defesa contra ameaças cibernéticas e na implementação de soluções inovadoras.
 
-Here are some ideas to get you started:
+Atuo com foco em operações ofensivas e defensivas (**Red Team & Blue Team**), hacking ético, automações com IA voltadas para ambientes SOC e desenvolvimento de agentes inteligentes com RAG. Possuo experiência prática com ferramentas como **Kali Linux, SIEM, SOAR**, além de consultoria em **Governança de TI** (família **ISO/IEC 27000**), além dos estudos em **Engenharia Reversa**, **Análises de Malwares** e **infraestrutura de redes**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também desenvolvo em **Python, C, C#, Assembly, JavaScript, HTML e CSS**, com estudos contínuos em plataformas como **Cisco Networking Academy**, **Fortinet**, **TryHackMe**, **Let's Defender** e **Hacking Club**, além de aprofundamento em **DFIR -  Digital Forense Incident And Response**.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+</p>
+
+---
+
+## 📜 Certificações
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Certified-blue?logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-Certified-red?logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alura-Certified-green?logo=alura&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBSEC-Certified-orange?logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/SANS-Certified-darkblue?logo=sans&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+## 📊 Principais Competências
+
+- **SOC - Security Operation Center**  
+- **DFIR - Digital Forensics Incident Response**  
+- **SIEM - Security Information and Event Management**  
+- **Infraestrutura de Redes**  
+- **Desenvolvimento Web (HTML, CSS, JavaScript, C, C#, Assembly, Python)**  
+- **Governança de TI (ISO/IEC 27000)**
+- **Laboratórios práticos em meu ambiente local**
+
+---
+
+## 🎥 Conteúdo Educacional
+
+Produzo conteúdos no meu canal do YouTube, compartilhando dicas, conceitos e boas práticas para proteger informações e sistemas.  
+👉 [Acesse meu canal aqui](https://www.youtube.com/@ronaldocibertech)
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: [Meu Perfil](https://www.linkedin.com/in/ronaldo-souza-ciber/)  
+- 🎥 YouTube: [Ronaldo CiberTech](https://www.youtube.com/@ronaldocibertech)  
+- 📧 Email: contatodireto.tasty610@passinbox.com  
+
+---
+
+### PERFIL
+_"Sempre em busca de aperfeiçoamento e preparado para contribuir de forma significativa no campo da segurança digital."_
