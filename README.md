@@ -78,19 +78,21 @@ Produzo conteúdos no meu canal do YouTube, compartilhando dicas, conceitos e bo
 👉 [Acesse meu canal aqui](https://www.youtube.com/@ronaldocibertech)
 
 ---
-
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esparta009boy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esparta009boy&layout=compact&theme=radical)
+
 ## 📊 Estatísticas Avançadas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Esparta009boy&theme=radical)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Esparta009boy&theme=radical&margin-w=10&margin-h=10)
 
+
 ---
+## ⚙️ Automação com GitHub Actions
+Este perfil utiliza **GitHub Actions** para rodar testes automáticos e demonstrar práticas modernas de CI/CD.  
+Os workflows configurados garantem qualidade e segurança contínua nos projetos.
 
 ## 📫 Contato
 
